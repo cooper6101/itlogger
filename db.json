@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-10-22T21:37:13.262Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed HDD on 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-10-23T13:27:44.593Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-10-22T21:37:49.487Z",
+      "id": 3
+    },
+    {
+      "message": "Network total crash",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-10-23T13:28:07.929Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Rainwater",
+      "id": 4
+    }
+  ]
+}
